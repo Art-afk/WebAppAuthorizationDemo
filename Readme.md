@@ -1,3 +1,5 @@
+Use postgresDB 
+generate token for authorization  
 https://www.allkeysgenerator.com/  
 https://jwt.io/  
 https://www.youtube.com/watch?v=KxqlJblhzfI&ab_channel=Amigoscode  
